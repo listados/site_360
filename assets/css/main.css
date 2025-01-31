@@ -896,9 +896,7 @@ section,
   padding: 2rem;
 }
 
-/*retirada do icone*/
 .hero .stat-item .stat-icon {
-  display: none;
   flex-shrink: 0;
   width: 64px;
   height: 64px;
