@@ -1912,6 +1912,24 @@ section,
   border: none;
   color: var(--contrast-color);
 }
+.btn-primary-plan {
+  background: var(--accent-color);
+  border-radius: 20px;
+  color: var(--contrast-color);
+  margin-top: 40px;
+  display: flex;
+  justify-content: center;
+  justify-self: center;
+  max-width: 150px;
+  padding: 10px 20px;
+  text-decoration: none;
+}
+
+.btn-primary-plan:hover {
+  background-color: white;
+  color: #0d83fd;
+  border-color: #0d83fd;
+}
 
 .pricing .pricing-card .btn.btn-primary:hover {
   background: color-mix(in srgb, var(--accent-color), transparent 15%);
