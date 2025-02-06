@@ -1400,6 +1400,7 @@ section,
 /*--------------------------------------------------------------
 # Call To Action Section
 --------------------------------------------------------------*/
+
 .call-to-action .container {
   background: var(--accent-color);
   color: var(--contrast-color);
@@ -2035,7 +2036,12 @@ section,
 # Call To Action 2 Section
 --------------------------------------------------------------*/
 .call-to-action-2 {
-  padding: 80px 0;
+  padding: 60px 0;
+  background-image:url(/assets/img/logo-listados.png);
+  background-repeat: no-repeat;
+  background-position: right;
+  background-size: 500px;
+  background-color: #0d203b;
 }
 
 .call-to-action-2 .container {
@@ -2044,9 +2050,10 @@ section,
 }
 
 .call-to-action-2 h3 {
-  font-size: 28px;
+  font-size: 40px;
   font-weight: 700;
   color: var(--default-color);
+  margin-bottom: 25px;
 }
 
 .call-to-action-2 p {
@@ -2068,7 +2075,7 @@ section,
 }
 
 .call-to-action-2 .cta-btn:hover {
-  border-color: var(--contrast-color);
+  background-color: #EC2C64;
 }
 
 /*--------------------------------------------------------------
