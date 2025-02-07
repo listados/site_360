@@ -1915,13 +1915,13 @@ section,
 }
 .btn-primary-plan {
   background: var(--accent-color);
-  border-radius: 20px;
+  border-radius: 30px;
   color: var(--contrast-color);
   margin-top: 40px;
   display: flex;
   justify-content: center;
   justify-self: center;
-  max-width: 150px;
+  width: 200px;
   padding: 10px 20px;
   text-decoration: none;
 }
