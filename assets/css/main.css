@@ -2035,6 +2035,75 @@ section,
 }
 
 /*--------------------------------------------------------------
+# Work-With_Us
+--------------------------------------------------------------*/
+
+#work-with-us {
+  padding: 0;
+  margin: 0;
+}
+
+#work-with-us .container-work {
+  padding: 0;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  align-items: center;
+  
+  
+}
+
+/* Criando um wrapper para alinhar melhor o texto e o botão */
+#work-with-us .container-work .text-content {
+  grid-column: 1;
+  display: flex;
+  flex-direction: column;  /* Organiza os elementos verticalmente */
+  align-items: flex-end;  /* Mantém alinhado à esquerda */
+  
+}
+
+#work-with-us .container-work p {
+  padding: 50px 25px;
+  margin: 0;  /* Evita espaços extras */
+  justify-self: end;
+  background-color: #f3f9ff;
+  border-radius: 20px;
+}
+
+#work-with-us .container-work .button-work {
+  margin-top: 20px;
+  color: black;
+  background-color: #ffffff;
+  border-color: #0d83fd;
+  border-radius: 20px;
+  width: 120px;
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  justify-self: center;
+  text-decoration: none;
+}
+
+#work-with-us .container-work .button-work:hover{
+  background-color:#0d83fd;
+  color: white;
+}
+
+
+/*--------------------------------------------------------------
+# Photograph
+--------------------------------------------------------------*/
+
+.img-photograph{
+  grid-column: 2;
+  width: 100%;  /* Faz a imagem ocupar toda a largura da coluna */
+  height: 100%; /* Faz a imagem ocupar toda a altura da coluna */
+  object-fit: cover; /* Garante que a imagem não distorça ao preencher o espaço */
+
+}
+
+
+/*--------------------------------------------------------------
 # Call To Action 2 Section
 --------------------------------------------------------------*/
 .call-to-action-2 {
