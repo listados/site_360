@@ -1825,7 +1825,9 @@ section,
 }
 
 .pricing .pricing-card.popular .btn-light:hover {
-  background: color-mix(in srgb, var(--contrast-color), transparent 10%);
+  color: white;
+  background-color: #1ebe57;
+  border-color: #1ebe57;
 }
 
 .pricing .pricing-card .popular-badge {
@@ -1933,7 +1935,7 @@ section,
 }
 
 .pricing .pricing-card .btn.btn-primary:hover {
-  background: color-mix(in srgb, var(--accent-color), transparent 15%);
+  background: #1ebe57;
 }
 
 /*--------------------------------------------------------------
