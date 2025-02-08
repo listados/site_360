@@ -5,7 +5,7 @@
  * Author: BootstrapMade.com
  * License: https://bootstrapmade.com/license/
  */
-AOS.init();
+
 (function () {
   "use strict";
 

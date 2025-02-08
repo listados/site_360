@@ -7,12 +7,15 @@
 
         <title>{{ config('app.name', 'Laravel') }}</title>
 
-        <!-- Fonts -->
+        <!-- CSS -->
         <link rel="preconnect" href="https://fonts.bunny.net">
         <link href="https://fonts.bunny.net/css?family=figtree:400,500,600&display=swap" rel="stylesheet" />
+        <link href="{{asset('css/bootstrap/css/bootstrap.min.css')}}" rel="stylesheet">
+        <link href="{{asset('css/bootstrap-icons/bootstrap-icons.css')}}" rel="stylesheet">
+        <link href="{{asset('css/aos/aos.css')}}" rel="stylesheet">
+        <link href="{{asset('css/glightbox/css/glightbox.min.css')}}" rel="stylesheet">
+        <link href="{{asset('css/swiper/swiper-bundle.min.css')}}" rel="stylesheet">
 
-        <!-- Scripts -->
-        @vite(['resources/css/app.css', 'resources/js/app.js'])
     </head>
     <body class="font-sans antialiased">
         <div class="min-h-screen bg-gray-100">

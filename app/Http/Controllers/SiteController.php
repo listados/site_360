@@ -5,6 +5,7 @@ namespace App\Http\Controllers;
 use App\Http\Requests\StoreSiteRequest;
 use App\Http\Requests\UpdateSiteRequest;
 use App\Models\Site;
+use function view;
 
 class SiteController extends Controller
 {
@@ -19,9 +20,9 @@ class SiteController extends Controller
     /**
      * Show the form for creating a new resource.
      */
-    public function create()
+    public function home()
     {
-        //
+        return view('site.360.site');
     }
 
     /**
