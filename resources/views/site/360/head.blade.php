@@ -19,4 +19,5 @@
 <link href="{{asset('css/aos/aos.css')}}" rel="stylesheet">
 <link href="{{asset('css/glightbox/css/glightbox.min.css')}}" rel="stylesheet">
 <link href="{{asset('css/swiper/swiper-bundle.min.css')}}" rel="stylesheet">
+<link href="{{asset('css/main.css')}}" rel="stylesheet">
 

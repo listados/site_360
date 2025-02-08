@@ -80,13 +80,13 @@
     }
   }
 
-  scrollTop.addEventListener("click", (e) => {
-    e.preventDefault();
-    window.open("https://wa.me/5585998660078", "_blank"); // Substitua pelo seu número do WhatsApp
-  });
+  // scrollTop.addEventListener("click", (e) => {
+  //   e.preventDefault();
+  //   window.open("https://wa.me/5585998660078", "_blank"); // Substitua pelo seu número do WhatsApp
+  // });
 
-  window.addEventListener("load", toggleScrollWhatsapp);
-  document.addEventListener("scroll", toggleScrollWhatsapp);
+  // window.addEventListener("load", toggleScrollWhatsapp);
+  // document.addEventListener("scroll", toggleScrollWhatsapp);
 
   /**
    * Animation on scroll function and init
