@@ -11,8 +11,8 @@ Para ambiente de desenvolvimento a máquina deve ter o php 8.4 e o composer inst
 - ./vendor/bin/sail artisan  migrate
 - ./vendor/bin/sail artisan  breeze:install
 - ./vendor/bin/sail artisan migrate
-- ./vendor/bin/sail artisan npm install
-- ./vendor/bin/sail artisan npm run  dev
+- ./vendor/bin/sail npm install
+- ./vendor/bin/sail npm run dev
 
 ###  🚀 AMBIENTE DE PRODUÇÃO
 Então seguir os seguintes comandos:

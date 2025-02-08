@@ -124,7 +124,8 @@
                 </div>
             </div>
         </div>
-        <a href="plans-page.html" target="_blank" class="btn btn-primary-plan">Ver Planos
+        <a href="{{url('planos')}}" class="btn btn-primary-plan">
+            Ver Planos
             <i class="bi bi-arrow-right"></i>
         </a>
     </div>

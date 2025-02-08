@@ -25,6 +25,11 @@ class SiteController extends Controller
         return view('site.360.site');
     }
 
+    public function plan()
+    {
+        return view('site.360.plan');
+    }
+
     /**
      * Store a newly created resource in storage.
      */

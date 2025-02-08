@@ -7,13 +7,13 @@
 
         <nav id="navmenu" class="navmenu">
             <ul>
-                <li><a href="#hero" class="active">Home</a></li>
-                <li><a href="#benefits">Benefícios</a></li>
-                <li><a href="#step-by-step">Criar tour</a></li>
-                <li><a href="#pricing">Planos</a></li>
-                <li><a href="#faq">Dúvidas</i></a></li>
-                <li><a href="#contact">Contato</a></li>
-                <li><a href="#">Trabalhe Conosco</a></li>
+                <li><a href="{{url('tour')}}" class="active">Home</a></li>
+                <li><a href="{{url('tour/#benefits')}}">Benefícios</a></li>
+                <li><a href="{{url('tour/#step-by-step')}}">Criar tour</a></li>
+                <li><a href="{{url('tour/#pricing')}}">Planos</a></li>
+                <li><a href="{{url('tour/#faq')}}">Dúvidas</i></a></li>
+                <li><a href="{{url('tour/#contact')}}">Contato</a></li>
+                <li><a href="{{url('tour')}}">Trabalhe Conosco</a></li>
             </ul>
             <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
         </nav>

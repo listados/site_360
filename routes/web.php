@@ -6,6 +6,7 @@ use App\Http\Controllers\ProfileController;
 
 Route::get('/360', [SiteController::class, 'index']);
 Route::get('/tour', [SiteController::class, 'home']);
+Route::get('/planos', [SiteController::class, 'plan']);
 
 Route::get('/dashboard', function () {
     return view('dashboard');
