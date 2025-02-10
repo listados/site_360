@@ -39,6 +39,10 @@
         @include('site.360.flag')
     </x-slot:flag>
 
+    <x-slot:work>
+        @include('site.360.work')
+    </x-slot:work>
+
     <x-slot:listados>
         @include('site.360.listados')
     </x-slot:listados>

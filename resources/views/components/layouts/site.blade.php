@@ -68,6 +68,12 @@
     @endisset
     <!-- /Faq Section -->
 
+    <!-- /Work -->
+    @isset($work)
+          {{$work}}
+      @endisset
+    <!-- /Work -->
+
     <!-- LISTADOS -->
     @isset($listados)
         {{$listados}}

@@ -35,11 +35,11 @@
 
                     <div class="customers-badge">
                         <div class="customer-avatars">
-                            <img src="{{asset('img/avatar-1.webp')}}" alt="Customer 1" class="avatar">
-                            <img src="{{asset('img/avatar-2.webp')}}" alt="Customer 2" class="avatar">
-                            <img src="{{asset('img/avatar-3.webp')}}" alt="Customer 3" class="avatar">
-                            <img src="{{asset('img/avatar-4.webp')}}" alt="Customer 4" class="avatar">
-                            <img src="{{asset('img/avatar-5.webp')}}" alt="Customer 5" class="avatar">
+                            <i class="bi bi-pie-chart-fill fs-3"></i>
+                            <i class="bi bi-send fs-3"></i>
+                            <i class="bi bi-phone fs-3"></i>
+                            <i class="bi bi-rulers fs-3"></i>
+                            <i class="bi bi-robot fs-3"></i>
                             <span class="avatar more">5+</span>
                         </div>
                         <p class="mb-0 mt-2">+10 funcionalidades em um único tour.</p>

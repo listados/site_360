@@ -194,8 +194,8 @@ h6 {
 
 .header .btn-getstarted:hover,
 .header .btn-getstarted:focus:hover {
-  color: var(--contrast-color);
-  background: color-mix(in srgb, var(--accent-color), transparent 15%);
+  background-color: color-mix(in srgb, var(--accent-color), black 20%);
+  border-color: color-mix(in srgb, var(--accent-color), black 20%);
 }
 
 @media (max-width: 1200px) {
@@ -853,7 +853,9 @@ section,
 .hero .customers-badge .customer-avatars {
   display: flex;
   align-items: center;
+  justify-content: space-between;
   margin-bottom: 0.5rem;
+  gap: 1px;
 }
 
 .hero .customers-badge .avatar {
@@ -874,8 +876,10 @@ section,
   display: flex;
   align-items: center;
   justify-content: center;
-  font-size: 0.75rem;
-  font-weight: 600;
+  font-size: 1.40rem;
+  font-weight: 400;
+  width: 50px;
+  height: 50px;
 }
 
 .hero .customers-badge p {
@@ -1825,7 +1829,9 @@ section,
 }
 
 .pricing .pricing-card.popular .btn-light:hover {
-  background: color-mix(in srgb, var(--contrast-color), transparent 10%);
+  color: white;
+  background-color: #1ebe57;
+  border-color: #1ebe57;
 }
 
 .pricing .pricing-card .popular-badge {
@@ -1915,13 +1921,13 @@ section,
 }
 .btn-primary-plan {
   background: var(--accent-color);
-  border-radius: 20px;
+  border-radius: 30px;
   color: var(--contrast-color);
   margin-top: 40px;
   display: flex;
   justify-content: center;
   justify-self: center;
-  max-width: 150px;
+  width: 200px;
   padding: 10px 20px;
   text-decoration: none;
 }
@@ -1933,7 +1939,7 @@ section,
 }
 
 .pricing .pricing-card .btn.btn-primary:hover {
-  background: color-mix(in srgb, var(--accent-color), transparent 15%);
+  background: #1ebe57;
 }
 
 /*--------------------------------------------------------------
@@ -2033,11 +2039,86 @@ section,
 }
 
 /*--------------------------------------------------------------
+# Work-With_Us
+--------------------------------------------------------------*/
+#work-with-us h2{
+  padding-top: 80px;
+  margin: 0px;
+}
+
+#work-with-us {
+  padding: 0;
+  margin: 0;
+}
+
+#work-with-us .container-work {
+  padding: 0;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  align-items: center;
+  font-family: var(--heading-font);
+}
+
+/* Criando um wrapper para alinhar melhor o texto e o botão */
+#work-with-us .container-work .text-content {
+  grid-column: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  
+}
+
+#work-with-us .container-work p {
+  font-size: 18px;
+  padding: 50px 25px;
+  margin: 0;
+  justify-self: end;
+  border-radius: 20px;
+  color: black;
+  background-color: #ffffff;
+  box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.2);
+}
+
+
+#work-with-us .container-work .button-work {
+  margin-top: 40px;
+  color: #ffffff;
+  background-color: var(--accent-color);
+  border-radius: 20px;
+  width: 130px;
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  justify-self: center;
+  text-decoration: none;
+  font-family: var(--heading-font);
+}
+
+#work-with-us .container-work .button-work:hover{
+  background-color: color-mix(in srgb, var(--accent-color), black 20%);
+}
+
+
+/*--------------------------------------------------------------
+# Photograph
+--------------------------------------------------------------*/
+
+.img-photograph{
+  grid-column: 2;
+  width: 100%;  /* Faz a imagem ocupar toda a largura da coluna */
+  height: 100%; /* Faz a imagem ocupar toda a altura da coluna */
+  object-fit: cover; /* Garante que a imagem não distorça ao preencher o espaço */
+
+}
+
+
+/*--------------------------------------------------------------
 # Call To Action 2 Section
 --------------------------------------------------------------*/
 .call-to-action-2 {
   padding: 60px 0;
-  background-image:url('../img/logo-listados.png');
+  background-image: url('/img/logo-listados.png');
   background-repeat: no-repeat;
   background-position: right;
   background-size: 500px;
@@ -2229,11 +2310,8 @@ section,
 }
 
 .contact .contact-form .btn:hover {
-  background-color: color-mix(
-    in srgb,
-    var(--accent-color),
-    var(--contrast-color) 20%
-  );
+  background-color: color-mix(in srgb, var(--accent-color), black 20%);
+  border-color: color-mix(in srgb, var(--accent-color), black 20%);
 }
 
 /*--------------------------------------------------------------
@@ -2375,24 +2453,3 @@ section,
 /*--------------------------------------------------------------
 # Starter Section Section
 --------------------------------------------------------------*/
-.whatsapp-button {
-    position: fixed;
-    bottom: 20px;
-    right: 20px;
-    width: 50px;
-    height: 50px;
-    background-color: #25D366;
-    color: white;
-    font-size: 24px;
-    border-radius: 50%;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-    text-decoration: none;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
-.whatsapp-button:hover {
-    background-color: #1ebe57;
-    color: white;
-}
