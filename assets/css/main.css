@@ -2041,6 +2041,10 @@ section,
 /*--------------------------------------------------------------
 # Work-With_Us
 --------------------------------------------------------------*/
+#work-with-us h2{
+  padding-top: 80px;
+  margin: 0px;
+}
 
 #work-with-us {
   padding: 0;
@@ -2052,45 +2056,47 @@ section,
   display: grid;
   grid-template-columns: 1fr 1fr;
   align-items: center;
-  
-  
+  font-family: var(--heading-font);
 }
 
 /* Criando um wrapper para alinhar melhor o texto e o botão */
 #work-with-us .container-work .text-content {
   grid-column: 1;
   display: flex;
-  flex-direction: column;  /* Organiza os elementos verticalmente */
-  align-items: flex-end;  /* Mantém alinhado à esquerda */
+  flex-direction: column;
+  align-items: flex-end;
   
 }
 
 #work-with-us .container-work p {
+  font-size: 18px;
   padding: 50px 25px;
-  margin: 0;  /* Evita espaços extras */
+  margin: 0;
   justify-self: end;
-  background-color: #f3f9ff;
   border-radius: 20px;
-}
-
-#work-with-us .container-work .button-work {
-  margin-top: 20px;
   color: black;
   background-color: #ffffff;
-  border-color: #0d83fd;
+  box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.2);
+}
+
+
+#work-with-us .container-work .button-work {
+  margin-top: 40px;
+  color: #ffffff;
+  background-color: var(--accent-color);
   border-radius: 20px;
-  width: 120px;
+  width: 130px;
   height: 40px;
   display: flex;
   justify-content: center;
   align-items: center;
   justify-self: center;
   text-decoration: none;
+  font-family: var(--heading-font);
 }
 
 #work-with-us .container-work .button-work:hover{
-  background-color:#0d83fd;
-  color: white;
+  background-color: color-mix(in srgb, var(--accent-color), black 20%);
 }
 
 
