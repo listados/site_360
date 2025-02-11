@@ -2093,6 +2093,7 @@ section,
   color: var(--contrast-color);
   font-size: 2rem;
   margin-bottom: 1rem;
+  text-align: center;
 }
 
 @media (max-width: 767.98px) {
@@ -2145,6 +2146,11 @@ section,
 
 .contact .info-item:hover .icon-box {
   background-color: color-mix(in srgb, var(--contrast-color), transparent 70%);
+}
+
+.information-contact{
+  display: flex;
+  justify-content: space-between;
 }
 
 .contact .info-item .content h4 {
