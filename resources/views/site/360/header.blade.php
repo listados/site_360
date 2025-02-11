@@ -1,7 +1,7 @@
 <header id="header" class="header d-flex align-items-center fixed-top">
     <div class="header-container container-fluid container-xl position-relative d-flex align-items-center justify-content-between">
 
-        <a href="index.html">
+        <a href="{{url('tour')}}">
             <img src="{{asset('img/logo_360_listados.png')}}" height="53px">
         </a>
 
