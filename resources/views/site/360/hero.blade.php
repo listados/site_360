@@ -49,7 +49,6 @@
         </div>
 
         <div id= "benefits" class="row stats-row gy-4 mt-5" data-aos="fade-up" data-aos-delay="500">
-            <h2 class="text-center" style="margin-left: 2rem">Com o 360° Listados você poderá...</h2>
             <div class="col-lg-3 col-md-6">
                 <div class="stat-item">
                     <div class="stat-icon">
