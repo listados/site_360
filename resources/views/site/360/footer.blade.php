@@ -33,9 +33,6 @@
                 <ul>
                     <li><a href="#">Tours Virtuais</a></li>
                     <li><a href="#">Suporte</a></li>
-                    <li><a href="#">Cursos</a></li>
-                    <li><a href="#">Aluguel de equipamento</a></li>
-                    <li><a href="#">Fotógrafos</a></li>
                 </ul>
             </div>
 
