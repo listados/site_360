@@ -46,7 +46,7 @@
 
             <div class="col-lg-4" data-aos="zoom-in" data-aos-delay="200">
                 <div class="phone-mockup text-center">
-                    <img src="{{asset('img/login-mobile-360.png')}}" alt="Phone Mockup" class="img-fluid">
+                    <img src="{{asset('img/home-360-listados-mobile.png')}}" alt="Phone Mockup" class="img-fluid">
                 </div>
             </div><!-- End Phone Mockup -->
 
