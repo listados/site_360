@@ -41,7 +41,6 @@
                         </div>
                     </div>
                 </div><!-- End .feature-item -->
-
             </div>
 
             <div class="col-lg-4" data-aos="zoom-in" data-aos-delay="200">
