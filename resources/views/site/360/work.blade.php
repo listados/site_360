@@ -8,7 +8,7 @@
         <div class="card-work">
         <p>Se capacite e seja um dos fotógrafos parceiros do 360° Listados!<br></br>
           Oferecemos cursos e treinamentos para fotógrafos em imagens 360°!
-          <a class="button-work" href="#">Inscreva-se</a>
+          <a class="button-work" href="https://docs.google.com/forms/d/1aRCU0BNCzzXN0izD_kASoVk5EOVqiliKz3ywRrEhswg/edit" target="_blanck">Inscreva-se</a>
         </p>
         </div>
         <img class="img-photograph" src="{{ asset('img/fotografo-final.png') }}" alt="fotografo">
