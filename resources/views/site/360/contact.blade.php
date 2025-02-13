@@ -14,8 +14,6 @@
                     <h3>Informações de Contato</h3>
                     <p>Aqui você encontra formas de entrar em contato conosco, seja via telefonema, whatsapp e e-mail, estaremos aguardando a sua mensagem!</p>
 
-                    <div class="information-contact">
-                        
                         <div class="info-item" data-aos="fade-up" data-aos-delay="300">
                             <div class="icon-box">
                                 <i class="bi bi-geo-alt"></i>
@@ -47,12 +45,10 @@
                                 <p>adm@listados.com.br</p>
                                 <p>contato@listados.com.br</p>
                             </div>
-                        </div>
-                    </div>    
+                        </div>        
                 </div>
-            </div>
+            </div>    
         </div>
-
     </div>
 
 </section>

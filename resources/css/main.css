@@ -2081,6 +2081,12 @@ section,
 /*--------------------------------------------------------------
 # Contact Section
 --------------------------------------------------------------*/
+.box-contact{
+  max-width: 500px;
+  margin-right: 500px;
+  justify-content:center;
+}
+
 .contact .info-box {
   background-color: var(--accent-color);
   color: var(--contrast-color);
@@ -2121,6 +2127,8 @@ section,
   display: flex;
   gap: 1.5rem;
   margin-bottom: 2rem;
+  flex-grow: 0;
+  flex-basis: auto
 }
 
 .contact .info-item:last-child {
@@ -2146,11 +2154,6 @@ section,
 
 .contact .info-item:hover .icon-box {
   background-color: color-mix(in srgb, var(--contrast-color), transparent 70%);
-}
-
-.information-contact{
-  display: flex;
-  justify-content: space-between;
 }
 
 .contact .info-item .content h4 {
