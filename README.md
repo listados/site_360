@@ -22,3 +22,6 @@ Então seguir os seguintes comandos:
 
 
 Tudo ocorrendo certo, deve acessar na seguinte url: http://localhost:8083/tour
+
+Template Name: iLanding
+Template URL: https://bootstrapmade.com/ilanding-bootstrap-landing-page-template/
