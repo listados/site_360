@@ -16,10 +16,6 @@
                         <p>os melhores tours virtuais</p></span>
                     </h1>
 
-                    <p class="mb-4 mb-md-5">
-                        Crie os melhores tours virtuais na plataforma mais completa do mercado!
-                    </p>
-
                     <div class="hero-buttons">
                         <a href="https://360.listados.com.br/backend/register.php" target="_blank" class="btn btn-primary me-0 me-sm-2 mx-1">Testar Gratuitamente</a>
                         <a href="https://www.youtube.com/watch?v=Y7f98aduVJ8" class="btn btn-link mt-2 mt-sm-0 glightbox">
