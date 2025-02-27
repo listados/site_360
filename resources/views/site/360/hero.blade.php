@@ -12,10 +12,11 @@
 
                     <h1 class="mb-4">
                         Explore imóveis sem sair de casa! <br>
-                        <span class="accent-text">Com a <strong>Listados 360°</strong> você vai criar os melhores tours virtuais</span>
+                        <span class="accent-text">Com a <strong>Listados 360°</strong> você vai criar 
+                        <p>os melhores tours virtuais</p></span>
                     </h1>
 
-                    <p class="mb-4 mb-md-5" style="color: #073a59">
+                    <p class="mb-4 mb-md-5">
                         Crie os melhores tours virtuais na plataforma mais completa do mercado!
                     </p>
 
