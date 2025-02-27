@@ -942,15 +942,15 @@ section,
 
 .hero .stat-item .stat-icon i {
   font-size: 1.5rem;
-  color: var(--accent-color);
+  color:#073a59;
 }
 
 .hero .stat-item:hover .stat-icon {
-  background-color: var(--accent-color);
+  background-color: #073a59;
 }
 
 .hero .stat-item:hover .stat-icon i {
-  color: var(--contrast-color);
+  color: #3c9cd4;
 }
 
 .hero .stat-item .stat-content {
