@@ -4,12 +4,12 @@
             <img src="{{asset('img/logo_listados_360.png')}}" height="98px" margin-left="42px" style="margin-left: 290px"> 
         </a>
 
-    <div class="header-container container-fluid container-xl position-relative d-flex align-items-center justify-content-between">
+    <div class="header-container position-relative d-flex align-items-center justify-content-between" style="background: #073a59; color: #FFFFFF">
 
         
 
         <nav id="navmenu" class="navmenu" style="margin-right: 10px">
-            <ul>
+            <ul class="text-white">
                 <li><a href="{{url('tour')}}" class="active">Home</a></li>
                 <li><a href="{{url('tour/#benefits')}}">Benefícios</a></li>
                 <li><a href="{{url('tour/#step-by-step')}}">Criar tour</a></li>
