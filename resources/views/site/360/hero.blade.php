@@ -26,18 +26,6 @@
             <div class="col-lg-6">
                 <div class="hero-image" data-aos="zoom-out" data-aos-delay="300">
                     <img src="{{asset('img/inicial.png')}}" alt="Hero Image" class="img-fluid">
-
-                    <div class="customers-badge">
-                        <div class="customer-avatars">
-                            <i class="bi bi-pie-chart-fill fs-3"></i>
-                            <i class="bi bi-send fs-3"></i>
-                            <i class="bi bi-phone fs-3"></i>
-                            <i class="bi bi-rulers fs-3"></i>
-                            <i class="bi bi-robot fs-3"></i>
-                            <span class="avatar more">5+</span>
-                        </div>
-                        <p class="mb-0 mt-2">+10 funcionalidades em um único tour.</p>
-                    </div>
                 </div>
             </div>
         </div>
