@@ -1,11 +1,14 @@
-<header id="header" class="header d-flex align-items-center fixed-top">
-    <div class="header-container container-fluid container-xl position-relative d-flex align-items-center justify-content-between">
+    <header id="header" class="header d-flex align-items-center fixed-top">
 
         <a href="{{url('tour')}}">
-            <img src="{{asset('img/logo_360_listados.png')}}" height="53px">
+            <img src="{{asset('img/logo_listados_360.png')}}" height="98px" margin-left="40px" style="margin-left: 290px"> 
         </a>
 
-        <nav id="navmenu" class="navmenu">
+    <div class="header-container container-fluid container-xl position-relative d-flex align-items-center justify-content-between">
+
+        
+
+        <nav id="navmenu" class="navmenu" style="margin-right: 10px">
             <ul>
                 <li><a href="{{url('tour')}}" class="active">Home</a></li>
                 <li><a href="{{url('tour/#benefits')}}">Benefícios</a></li>
