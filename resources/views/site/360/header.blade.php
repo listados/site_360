@@ -10,13 +10,12 @@
 
         <nav id="navmenu" class="navmenu" style="margin-right: 10px">
             <ul class="text-white">
-                <li><a href="{{url('tour')}}" class="active">Home</a></li>
-                <li><a href="{{url('tour/#benefits')}}">Benefícios</a></li>
+                <li><a href="{{url('tour')}}" class="active">360°</a></li>
                 <li><a href="{{url('tour/#step-by-step')}}">Criar tour</a></li>
+                <li><a href="{{url('tour/#services')}}">Características</a></li>
                 <li><a href="{{url('tour/#pricing')}}">Planos</a></li>
                 <li><a href="{{url('tour/#faq')}}">Dúvidas</i></a></li>
-                <li><a href="{{url('tour/#contact')}}">Contato</a></li>
-                <li><a href="{{url('tour')}}">Trabalhe Conosco</a></li>
+                <li><a href="{{url('tour/#work-with-us')}}">Trabalhe Conosco</a></li>
             </ul>
             <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
         </nav>
