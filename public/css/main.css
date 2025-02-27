@@ -825,14 +825,16 @@ section,
 }
 
 .hero .btn-link {
-  color: var(--heading-color);
+  color: #050414;
   text-decoration: none;
   font-weight: 500;
   transition: all 0.3s ease;
+  padding: 0.75rem 2.5rem;
+  padding-top: 50px;
 }
 
 .hero .btn-link:hover {
-  color: var(--accent-color);
+  color: #cd1b4f;
 }
 
 .hero .btn-link i {
