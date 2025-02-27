@@ -809,18 +809,19 @@ section,
 }
 
 .hero .btn-primary {
-  background-color: var(--accent-color);
-  border-color: var(--accent-color);
+  background-color: #9b0a35;
+  border-color: #9b0a35;
   color: var(--contrast-color);
   padding: 0.75rem 2.5rem;
   border-radius: 50px;
-  font-weight: 500;
+  font-weight: 450;
   transition: all 0.3s ease;
+  margin-top: 40px;
 }
 
 .hero .btn-primary:hover {
-  background-color: color-mix(in srgb, var(--accent-color), black 20%);
-  border-color: color-mix(in srgb, var(--accent-color), black 20%);
+  background-color: #cd1b4f;
+  border-color: #cd1b4f;
 }
 
 .hero .btn-link {
