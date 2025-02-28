@@ -2,7 +2,7 @@
 
     <!-- Section Title -->
     <div class="container section-title" data-aos="fade-up">
-        <h2>Como criar seu tour virtual?</h2>
+        <h2 style="color: #073a59">Como criar seu tour virtual?</h2>
     </div><!-- End Section Title -->
     <div class="container">
 
