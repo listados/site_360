@@ -13,16 +13,28 @@
             <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
                 <div class="service-card d-flex">
                     <div class="icon flex-shrink-0">
-                        <i class="bi bi-collection"></i>
+                        <i class="bi bi-bullseye"></i>
                     </div>
                     <div>
-                        <h3>Criar Bibliotecas</h3>
-                        <p>No 360 Listados, você pode criar bibliotecas de mídias personalizadas, adicionando ícones, imagens, músicas e sons para incluir facilmente em seus tours virtuais, tornando o processo mais prático e organizado.</p>
+                        <h3>Criar Pontos de Interesse</h3>
+                        <p>Adicionando Pontos de Interesse (POIs) aos seus tours virtuais, você proporcionará aos usuários uma experiência mais completa, com informações, dados, imagens, vídeos e áudios.</p>
                     </div>
                 </div>
             </div><!-- End Service Card -->
 
             <div class="col-lg-6" data-aos="fade-up" data-aos-delay="200">
+                <div class="service-card d-flex">
+                    <div class="icon flex-shrink-0">
+                        <i class="bi bi-headset-vr"></i>
+                    </div>
+                    <div>
+                        <h3>Realidade Virtual</h3>
+                        <p>O tour virtual do 360° Listados pode ser acessado em qualquer dispositivo, como computadores, tablets e smartphones, permitindo que você explore os ambientes de forma prática e sem restrições.</p>
+                    </div>
+                </div>
+            </div><!-- End Service Card -->
+
+            <div class="col-lg-6" data-aos="fade-up" data-aos-delay="300">
                 <div class="service-card d-flex">
                     <div class="icon flex-shrink-0">
                         <i class="bi bi-rulers"></i>
@@ -34,26 +46,38 @@
                 </div>
             </div><!-- End Service Card -->
 
-            <div class="col-lg-6" data-aos="fade-up" data-aos-delay="300">
+            <div class="col-lg-6" data-aos="fade-up" data-aos-delay="400">
                 <div class="service-card d-flex">
                     <div class="icon flex-shrink-0">
-                        <i class="bi bi-hand-index"></i>
+                        <i class="bi bi-rocket"></i>
                     </div>
                     <div>
-                        <h3>Criar Pontos de Interesse</h3>
-                        <p>Adicionando Pontos de Interesse (POIs) aos seus tours virtuais, você proporcionará aos usuários uma experiência mais completa, com informações, dados, imagens, vídeos e áudios.</p>
+                        <h3>Acesso Rápido e Sem Instalação</h3>
+                        <p>Visualize os tours virtuais instantaneamente, sem a necessidade de baixar aplicativos. Basta acessar o link pelo navegador do seu dispositivo e explorar os ambientes com total praticidade.</p>
                     </div>
                 </div>
             </div><!-- End Service Card -->
 
-            <div class="col-lg-6" data-aos="fade-up" data-aos-delay="400">
+            <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
                 <div class="service-card d-flex">
                     <div class="icon flex-shrink-0">
-                        <i class="bi bi-camera"></i>
+                        <i class="bi bi-phone"></i>
                     </div>
                     <div>
-                        <h3>Cursos para Fotógrafos</h3>
-                        <p>A Listados está oferecendo um curso para capacitar fotógrafos interessados em aprender a capturar fotos em formato 360°. Não perca essa oportunidade e entre em contato conosco!</p>
+                        <h3>Totalmente Responsivo</h3>
+                        <p>O tour virtual do Listados 360° é responsivo e pode ser acessado em qualquer dispositivo. A plataforma se ajusta automaticamente ao tamanho da tela, garantindo uma experiência imersiva e navegação intuitiva.</p>
+                    </div>
+                </div>
+            </div><!-- End Service Card -->
+
+            <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
+                <div class="service-card d-flex">
+                    <div class="icon flex-shrink-0">
+                        <i class="bi bi-browser-chrome"></i>
+                    </div>
+                    <div>
+                        <h3>Compatibilidade com Navegadores</h3>
+                        <p>O Listados 360° é compatível com os principais navegadores, como Chrome, Firefox, Edge e Safari, garantindo fácil acesso aos tours virtuais.</p>
                     </div>
                 </div>
             </div><!-- End Service Card -->
