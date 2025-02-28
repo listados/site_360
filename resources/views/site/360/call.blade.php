@@ -1,6 +1,6 @@
 <section id="call-to-action" class="call-to-action section">
 
-    <div class="container" data-aos="fade-up" data-aos-delay="100">
+    <div class="container" data-aos="fade-up" data-aos-delay="100" style="background: #073a59">
 
         <div class="row content justify-content-center align-items-center position-relative">
             <div class="col-lg-10 mx-auto text-center">
