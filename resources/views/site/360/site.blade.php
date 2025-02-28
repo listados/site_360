@@ -11,10 +11,6 @@
         @include('site.360.step')
     </x-slot:step>
 
-    <x-slot:feature>
-        @include('site.360.feature-two')
-    </x-slot:feature>
-
     <x-slot:call>
         @include('site.360.call')
     </x-slot:call>
