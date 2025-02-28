@@ -36,11 +36,11 @@
             <div class="tab-pane fade active show" id="features-tab-1">
                 <div class="row">
                     <div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0 d-flex flex-column justify-content-center">
-                        <h3>Planejamento</h3>
+                        <h3 style="color: #073a59">Planejamento</h3>
                         <p class="fst-italic">
                             Defina um objetivo e o foco do seu tour virtual. Em seguida, elabore um roteiro detalhado do ambiente, listando cada espaço que será exibido e a ordem de apresentação.
                         </p>
-                        <h3>Equipamentos</h3>
+                        <h3 style="color: #073a59">Equipamentos</h3>
                         <p class="fst-italic">
                             Use câmeras 360° para capturar imagens panorâmicas (equirretangulares). Utilize um tripé para garantir que as fotos fiquem estáveis e alinhadas.
                         </p>
@@ -55,11 +55,11 @@
             <div class="tab-pane fade" id="features-tab-2">
                 <div class="row">
                     <div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0 d-flex flex-column justify-content-center">
-                        <h3>Suporte</h3>
+                        <h3 style="color: #073a59">Suporte</h3>
                         <p class="fst-italic">
                             Caso não disponha dos equipamentos necessários para capturar imagens dos ambientes, podemos disponibilizar um fotógrafo profissional com todos os recursos necessários.
                         </p>
-                        <h3>360° Listados</h3>
+                        <h3 style="color: #073a59">360° Listados</h3>
                         <p class="fst-italic">
                             Utilize nossa aplicação 360° Listados para adicionar as imagens captadas aos seus ambientes. Você também pode incluir mídias como vídeos, áudios, PDFs, plantas baixas e modelos para compor seu tour virtual.
                         </p>
@@ -74,11 +74,11 @@
             <div class="tab-pane fade" id="features-tab-3">
                 <div class="row">
                     <div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0 d-flex flex-column justify-content-center">
-                        <h3>Publicar</h3>
+                        <h3 style="color: #073a59">Publicar</h3>
                         <p class="fst-italic">
                             Após a criação e personalização do seu tour virtual, você poderá compartilhá-lo com o mundo, proporcionando uma experiência imersiva em suas redes sociais.
                         </p>
-                        <h3>Layout responsivo</h3>
+                        <h3 style="color: #073a59">Layout responsivo</h3>
                         <p class="fst-italic">
                             O seu tour virtual é adaptável a qualquer tela, seja em smartphones, tablets ou computadores, oferecendo diversas possibilidades de visualização dos imóveis.
                         </p>
