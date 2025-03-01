@@ -44,11 +44,3 @@
     </div>
 
 </footer>
-
-<script src="{{asset('js/bootstrap/js/bootstrap.bundle.min.js')}}"></script>
-<script src="{{asset('js/php-email-form/validate.js')}}"></script>
-<script src="{{asset('js/aos/aos.js')}}"></script>
-<script src="{{asset('js/glightbox/js/glightbox.min.js')}}"></script>
-<script src="{{asset('js/swiper/swiper-bundle.min.js')}}"></script>
-<script src="{{asset('js/purecounter/purecounter_vanilla.js')}}"></script>
-<script src="https://bootstrapmade.com/content/demo/iLanding/assets/js/main.js"></script>

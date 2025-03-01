@@ -9,7 +9,7 @@
 
 {{ $header ?? '360 LISTADOS' }}
 
-  <main class="main">
+
 
     <!-- Hero Section -->
     @isset($hero)
@@ -84,7 +84,7 @@
       @isset($plans)
           {{$plans}}
       @endisset
-  </main>
+
 
   @include('site.360.footer')
 
