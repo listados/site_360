@@ -2478,12 +2478,16 @@ section,
 :root {
   --bg-menu: #073A59
 }
-.text-custom-cadastre {
+
+.text-custom-cadastre{
   color: var(--text-custom-dark);
+
 }
+
 .nav-bg-menu {
   background-color: var(--bg-menu);
 }
+
 /* PARA DISPOSITIVOS MOBILE */
 @media (max-width: 430px) {
   .header .logo img {
@@ -2491,9 +2495,11 @@ section,
     margin-right: 8px;
   }
 }
+
 .header-action {
-  border-radius: 8px;
+  border-radius: 20px;
 }
+
 .scrolled .header .header-action {
   background: color-mix(in srgb, var(--nav-mobile-background-color), transparent 15%);
 }

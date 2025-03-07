@@ -16,13 +16,13 @@
                                 <li><a href="{{ url('tour/#services') }}">Características</a></li>
                                 <li><a href="{{ url('tour/#pricing') }}">Planos</a></li>
                                 <li><a href="{{ url('tour/#faq') }}">Dúvidas</i></a></li>
-                                <li><a href="{{ url('tour/#work-with-us') }}">Trabalhe Conosco</a></li>
+                                <li><a href="{{ url('tour/#work-with-us') }}">Trabalhe conosco</a></li>
                             </ul>
                             <i class="mobile-nav-toggle d-xl-none bi bi-list text-white"></i>
                         </nav>
                     </div>
                 </div>
-                <div class="col d-flex align-items-center">
+                <div class="col d-flex align-items-center aling-content-center">
                     <nav class="container-fluid container-xl position-relative">
                         <div class="row">
                             <div class="col d-flex justify-content-center">

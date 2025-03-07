@@ -17,8 +17,8 @@
                     </h1>
 
                     <div class="hero-buttons">
-                        <a href="https://360.listados.com.br/backend/register.php" target="_blank" class="btn btn-primary me-0 me-sm-2 mx-1">Testar Gratuitamente</a>
-                        <a href="https://www.youtube.com/watch?v=Y7f98aduVJ8" class="btn btn-link mt-2 mt-sm-0 glightbox">Ver Planos</a>
+                        <a href="https://360.listados.com.br/backend/register.php" target="_blank" class="btn btn-primary me-0 me-sm-2 mx-1">Testar gratuitamente</a>
+                        <a href="https://www.youtube.com/watch?v=Y7f98aduVJ8" class="btn btn-link mt-2 mt-sm-0 glightbox">Ver planos</a>
                     </div>
                 </div>
             </div>
